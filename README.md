@@ -1,4 +1,4 @@
-![Logo do Bot](https://appmaster.io/pt/blog/discord-bot-como-cria-lo-e-adiciona-lo-ao-servidor)
+![Logo do Bot](/img/discord.png)
 
 # 🤖 Bot Discord com Python
 
