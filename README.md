@@ -71,7 +71,7 @@ Altere canal_id = 999 para o ID real do canal de boas-vindas.
 
 ### 🔐 Segurança
 
-Nunca compartilhe seu token do bot. Use variáveis de ambiente ou arquivos .env.
+Nunca compartilhe seu token do bot. Use variáveis de ambiente ou arquivos em .env.
 
 ### 🧑‍💻 Autor
 
